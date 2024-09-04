@@ -49,3 +49,59 @@ Specialty: Global Family Planning, Reproductive Health, MFM
 Description: The DHS program collects data on population health, including fertility, family planning, maternal and child health, and women’s reproductive health across multiple countries.
 Access: Data are free to access, but users must register to download datasets.
 Link: DHS Program
+
+# Clinical Trials
+
+## NuMom2b (Nulliparous Pregnancy Outcomes Study Monitoring Mothers-to-Be)
+Specialty: MFM, General Obstetrics
+Description: This study focused on a cohort of nulliparous women and aimed to identify risk factors for adverse pregnancy outcomes, such as preterm birth and preeclampsia. The dataset includes biospecimens and extensive maternal and fetal data from early pregnancy through delivery.
+Access: Data requests can be submitted through the NICHD Data and Specimen Hub (DASH).
+Link: NuMom2b Data
+
+## Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) Maternal-Fetal Medicine Units (MFMU) Network
+Specialty: MFM, General Obstetrics
+Description: The MFMU Network conducts clinical trials to improve pregnancy outcomes, focusing on conditions like preterm birth, preeclampsia, and fetal growth restriction. Several trials related to maternal-fetal health are available for data sharing.
+Access: Data from MFMU trials can be requested through the NICHD DASH, with approval required for access.
+Link: NICHD MFMU Network
+
+## ClinicalTrials.gov
+Specialty: REI, MFM, Gynecologic Oncology, Family Planning
+Description: ClinicalTrials.gov is a registry and results database of publicly and privately supported clinical studies conducted around the world. Some trials, especially those supported by NIH, offer data sharing options for researchers upon request.
+Access: Data sharing statements are included in many clinical trial records, allowing researchers to request access to de-identified data from specific studies.
+Link: ClinicalTrials.gov
+
+## National Institute of Health (NIH) Research Portfolio Online Reporting Tools (RePORT)
+Specialty: REI, MFM, Gynecologic Oncology, Family Planning
+Description: NIH RePORT includes access to clinical trials funded by the NIH, including those in the areas of reproductive health, obstetrics, and gynecology. Some of these trials offer data-sharing options for researchers, available through repositories like dbGaP or direct requests.
+Access: Data can be accessed by submitting formal requests based on individual trial guidelines.
+Link: NIH RePORT
+
+## Gynecologic Oncology Group (GOG) Foundation
+Specialty: Gynecologic Oncology
+Description: GOG conducts clinical trials focusing on the treatment of gynecologic cancers. Data from completed studies are available upon request for researchers conducting secondary analyses.
+Access: Researchers can submit requests for access to trial data through the GOG Foundation, which requires protocol submission and approval.
+Link: GOG Foundation
+
+## Randomized Trial of Induction Versus Expectant Management (ARRIVE Trial)
+Specialty: MFM, General Obstetrics
+Description: The ARRIVE trial examined outcomes of elective induction of labor at 39 weeks compared to expectant management in nulliparous women. The dataset includes detailed maternal, labor, and neonatal outcomes.
+Access: Data are available upon request through the NICHD DASH platform.
+Link: ARRIVE Trial Data
+
+## Reproductive Medicine Network (RMN)
+Specialty: REI, Family Planning
+Description: The RMN conducts clinical trials to evaluate interventions for infertility, reproductive endocrinology, and other reproductive health issues. Data from its trials are available to qualified researchers through the NIH DASH system.
+Access: Data requests can be submitted through NICHD DASH.
+Link: RMN Data
+
+## Preterm Eclampsia Prevention and Treatment (PEPET) Trial
+Specialty: MFM
+Description: The PEPET trial focused on the prevention and treatment of preeclampsia in pregnant women. The dataset includes patient outcomes, treatment protocols, and biological markers related to preeclampsia.
+Access: Available through NICHD DASH upon request.
+Link: PEPET Trial
+
+## Ovarian Cancer Association Consortium (OCAC)
+Specialty: Gynecologic Oncology
+Description: OCAC pools data from multiple ovarian cancer studies to assess risk factors, treatments, and outcomes. Researchers can request access to de-identified patient-level data for secondary analysis.
+Access: Data can be requested through the OCAC website, subject to a formal data-sharing agreement.
+Link: OCAC Data
