@@ -108,3 +108,14 @@ Specialty: Gynecologic Oncology
 Description: OCAC pools data from multiple ovarian cancer studies to assess risk factors, treatments, and outcomes. Researchers can request access to de-identified patient-level data for secondary analysis.
 Access: Data can be requested through the OCAC website, subject to a formal data-sharing agreement.
 Link: OCAC Data
+
+-----------------
+TO ADD
+
+SMFM data sets
+Additional data sets interesting to me
+
+Also the additional resources we talked about today:
+N3C
+NSQIP
+NHANES
